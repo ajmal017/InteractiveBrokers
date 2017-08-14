@@ -9,7 +9,10 @@ and completes the subsequent pages to finish the rest the application.
 ------------------------------------------------------------------------------------------------ 
 FRAMEWORK USED
 ------------------------------------------------------------------------------------------------
-TestNG
-Selenium WebDriver
-Java(language used)
-Page Factory (POM)
+(1) TestNG
+
+(2) Selenium WebDriver
+
+(3) Java(language used)
+
+(4) Page Factory (POM)
