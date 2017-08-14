@@ -1,18 +1,16 @@
 package testPackage;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.AfterMethod;
+
 
 import static org.junit.Assert.*;
 
 import java.util.concurrent.TimeUnit;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+
 
 import pagePackage.LoginPageFactory;
 import pagePackage.ConfigTradePermPageFactory;
@@ -89,7 +87,6 @@ public class TestBrkgAccAppl {
 	 *2) Save and Continue
 	 */
 	
-	
 	@Test (priority=2)	
 	public void test2() {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS); 
@@ -100,7 +97,6 @@ public class TestBrkgAccAppl {
 	 * Test Case 2: Selects All products under North America and continue
 	 */
 	
-		
 	@Test (priority=3)	
 	public void test3() {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS); 
