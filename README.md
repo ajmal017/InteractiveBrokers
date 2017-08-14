@@ -1,5 +1,5 @@
 # InteractiveBrokers
-
+Name: Samantha Maria Pereira                                                    Date: 08/14/2017
 ------------------------------------------------------------------------------------------------
 AUTOMATED FLOW TO COMPLETE BROKERAGE ACCOUNT APPLICATION:
 ------------------------------------------------------------------------------------------------
