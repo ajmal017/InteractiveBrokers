@@ -13,6 +13,6 @@ FRAMEWORK USED
 
 (2) Selenium WebDriver
 
-(3) Java(language)
+(3) Java (language)
 
 (4) Page Factory (POM)
